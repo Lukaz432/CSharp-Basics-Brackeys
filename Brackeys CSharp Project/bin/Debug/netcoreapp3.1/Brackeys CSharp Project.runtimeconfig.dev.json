@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\NASA\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\NASA\\.nuget\\packages"
+    ]
+  }
+}

@@ -1,0 +1,13 @@
+C:\Users\NASA\Desktop\Brackeys CSharp Project\bin\Debug\netcoreapp3.1\Brackeys CSharp Project.exe
+C:\Users\NASA\Desktop\Brackeys CSharp Project\bin\Debug\netcoreapp3.1\Brackeys CSharp Project.deps.json
+C:\Users\NASA\Desktop\Brackeys CSharp Project\bin\Debug\netcoreapp3.1\Brackeys CSharp Project.runtimeconfig.json
+C:\Users\NASA\Desktop\Brackeys CSharp Project\bin\Debug\netcoreapp3.1\Brackeys CSharp Project.runtimeconfig.dev.json
+C:\Users\NASA\Desktop\Brackeys CSharp Project\bin\Debug\netcoreapp3.1\Brackeys CSharp Project.dll
+C:\Users\NASA\Desktop\Brackeys CSharp Project\bin\Debug\netcoreapp3.1\Brackeys CSharp Project.pdb
+C:\Users\NASA\Desktop\Brackeys CSharp Project\obj\Debug\netcoreapp3.1\Brackeys CSharp Project.csprojAssemblyReference.cache
+C:\Users\NASA\Desktop\Brackeys CSharp Project\obj\Debug\netcoreapp3.1\Brackeys CSharp Project.AssemblyInfoInputs.cache
+C:\Users\NASA\Desktop\Brackeys CSharp Project\obj\Debug\netcoreapp3.1\Brackeys CSharp Project.AssemblyInfo.cs
+C:\Users\NASA\Desktop\Brackeys CSharp Project\obj\Debug\netcoreapp3.1\Brackeys CSharp Project.csproj.CoreCompileInputs.cache
+C:\Users\NASA\Desktop\Brackeys CSharp Project\obj\Debug\netcoreapp3.1\Brackeys CSharp Project.dll
+C:\Users\NASA\Desktop\Brackeys CSharp Project\obj\Debug\netcoreapp3.1\Brackeys CSharp Project.pdb
+C:\Users\NASA\Desktop\Brackeys CSharp Project\obj\Debug\netcoreapp3.1\Brackeys CSharp Project.genruntimeconfig.cache
